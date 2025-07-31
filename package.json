@@ -1,0 +1,21 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "Workout logging application",
+  "default": "index.html",
+  "homepage": "https://github.com/JucalisLife/Mapty#readme",
+  "bugs": {
+    "url": "https://github.com/JucalisLife/Mapty/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JucalisLife/Mapty.git"
+  },
+  "license": "ISC",
+  "author": "Jucal Adefokun",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  }
+}
