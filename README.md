@@ -10,7 +10,7 @@ Mapty is a JavaScript web application that employs the Leaflet third-party libra
 - CSS
 - JavaScript
 
-## Installation
+## Usage
 Follow the following steps in order to run Mapty locally:
 
 1. Clone the repository:
