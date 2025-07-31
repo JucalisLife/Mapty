@@ -1,4 +1,4 @@
-# Mapty
+# mapty
 <img width="3835" height="1912" alt="Screenshot 2025-07-31 003452" src="https://github.com/user-attachments/assets/0232b5bb-5795-4f8c-9384-26d02724a086" />
 
 ## About the Project
